@@ -4,7 +4,7 @@ The complete HTML and CSS code for designing the Google HomePage.
 
 ################################################################
 
-Created by Ayuhs Jain
+Created by Ayush Jain
 
 ################################################################
 
